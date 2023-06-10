@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -303827714, guid: 567e6f5522e329e4e916042c57ff4291, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: 
+  m_szUIInfo:
+  - eType: 1
+    eLayer: 2
+    pbWindow: {fileID: 1000011561865082, guid: b483e1002242f374291b8c374ebc92c0, type: 3}
+  - eType: 2
+    eLayer: 2
+    pbWindow: {fileID: 1000011561865082, guid: 7dc185f4735156d44819dcab7ff697a8, type: 3}
+  - eType: 3
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: e04dd59b353f4b848b83ebe97dde2f22, type: 3}
+  - eType: 4
+    eLayer: 2
+    pbWindow: {fileID: 4580801004131060417, guid: 7b9a93206a8612446b9d1f044b596470, type: 3}
+  - eType: 5
+    eLayer: 2
+    pbWindow: {fileID: 1479729794973422, guid: 3e002982cd4f2ea47b945b2537a0f0dc, type: 3}
+  - eType: 6
+    eLayer: 1
+    pbWindow: {fileID: 1577774671441264, guid: 66c5e7a967b90934fa9d315c10a077b4, type: 3}
+  - eType: 7
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: cba1ece3f0699e74ca5978188a371f34, type: 3}
+  - eType: 8
+    eLayer: 3
+    pbWindow: {fileID: 8233800760878682777, guid: 14f722f2e3e10dd4585c126c8c0c52ed, type: 3}
+  - eType: 9
+    eLayer: 0
+    pbWindow: {fileID: 8233800760878682777, guid: fe3d5d00b356cc74681dd6cfc7476b3d, type: 3}
+  - eType: 10
+    eLayer: 2
+    pbWindow: {fileID: 8233800760878682777, guid: 24d49048fa11344499715dd8903d7458, type: 3}
+  - eType: 11
+    eLayer: 0
+    pbWindow: {fileID: 8233800760878682777, guid: 27da123042c866b43962d534126adeda, type: 3}
+  - eType: 12
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: 50ce0a9ee51ed654a93db4911b7eec27, type: 3}
+  - eType: 13
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: 5dc0cbd8e29ca3b41b55749ebb8126a1, type: 3}
+  - eType: 21
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: 2fe20b1292d2bcc4b8f9baaecd03a553, type: 3}
+  - eType: 22
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: adcbd355ac2c74346bb6344e59ecd6e8, type: 3}
+  - eType: 23
+    eLayer: 1
+    pbWindow: {fileID: 8233800760878682777, guid: 6e7bf3d510876f04a812c3fa6183d48a, type: 3}
